@@ -1,7 +1,7 @@
 -- Cabecera
-drop database if exists empleados;
-create database empleados;
-use empleados;
+drop database if exists pl_sql;
+create database pl_sql;
+use pl_sql;
 
 -- Tablas
 create table empleado(
